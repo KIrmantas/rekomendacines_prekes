@@ -1,1 +1,1 @@
-# rekomendacines_prekes
+# Rekomendacinės prekės
